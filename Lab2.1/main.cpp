@@ -15,7 +15,7 @@ int main() {
     cout<<"Pole prostokata o boku 5 i 2: "<<pole(5,2)<<endl;
     cout<<"Pole trapezu o bokach 5 i 4 i wysokosci 3: "<<pole(5,4,3)<<endl;
     cout<<"Pole rombu o przekatnych 5 i 4: "<<pole(5.0f,4.0f);
-
+    //s
     return 1;
 }
 
